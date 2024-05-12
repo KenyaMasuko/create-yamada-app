@@ -1,0 +1,12 @@
+{
+  "name": "create-yamada-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create-yamada-app": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
